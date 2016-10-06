@@ -1,0 +1,43 @@
+@import "foundation";
+
+html{
+  background:#F6F5F3;
+}
+.body{
+  background:#F6F5F3!important;
+  font-family: Arial;
+}
+
+.logo{
+  width: 150px;
+}
+
+h2{
+  font-size: 20px; 
+  text-transform: uppercase;   
+}
+
+p{
+  font-size: 16px;
+  color: #323232;
+}
+
+.italy{
+      font-style: italic;
+}
+
+a{
+  color: #6161d4 !important
+}
+
+.soc-item{
+  display: inline-block;
+  a{
+    display: inline-block;
+  }
+}
+
+.news-img{
+  max-width: 250px!important;
+  width: 250px!important;
+}
